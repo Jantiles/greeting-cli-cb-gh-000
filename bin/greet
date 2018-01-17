@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 puts "Hello there my friend :D"
-  puts "please enter your name"
+puts "please enter your name"
+name = gets.
 
 # code your CLI here!
